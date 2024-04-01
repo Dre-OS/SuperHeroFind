@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CC10624SuperHero</string>
+    <string-array name="heroList">
+        <item>Spider-Man</item>
+        <item>Iron Man</item>
+        <item>Captain America</item>
+        <item>Pedro Penduko</item>
+        <item>Darna</item>
+        <item>Captain Barbel</item>
+        <item>Cardo Dalisay</item>
+        <item>Lastik Man</item>
+        <item>Gagamboy</item>
+        <item>Black Panther</item>
+    </string-array>
+</resources>
